@@ -29,7 +29,7 @@
 </div>
 <br>
 
-<div align = "right">
+<div align = "center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3bmpqejNhMHl3d2JkdXpjMzJsMm9lcjBreTdoaW53cmRsYWhxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c0PX1PqTeqhbtKMekM/200.webp" width = "400">
 </div>
 
