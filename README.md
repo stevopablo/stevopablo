@@ -2,7 +2,11 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBnN2gzYmU0M29hZjl4YzR1MHAxZGtmazRjZ2U2djR6amUyaXM4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMpDBxxTzKety/giphy.webp" width = "400" />
 </div>
 
+<div align ="center">
+
 ![](https://komarev.com/ghpvc/?username=stevopablo&color=blueviolet)
+
+</div>
 
 <h2 align = "center">Social</h2>
 <div align = "center">
