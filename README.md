@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/28rjHkiHv7mIb2HIs1ab5w?si=87ce1fa774e649e2)
 
-<img src="https://giphy.com/clips/anime-queen-demon-slayer-0YqqS9Nize8tKxfSWV" width = "400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd1cGtycTV4azIzMXVjdmo1Y3puOHp3YmZ2d2Q0YXJjc3c0YmVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7wIVXPnpm1DiJDdsU/giphy.webp" width = "400">
 ### Skills
 
 <p align="left">
