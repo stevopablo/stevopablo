@@ -30,6 +30,8 @@
 
 
 <div display = "flex">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevopablo&show_icons=true&theme=dark)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/stevopablo/github-readme-stats)
 </div>
