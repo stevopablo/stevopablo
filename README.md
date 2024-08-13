@@ -6,7 +6,6 @@
 
 <h2 align = "center">Social</h2>
 <div align = "center">
-</div>
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/aynnier)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/makimaisthemonster/)
@@ -15,6 +14,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd1cGtycTV4azIzMXVjdmo1Y3puOHp3YmZ2d2Q0YXJjc3c0YmVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7wIVXPnpm1DiJDdsU/giphy.webp" width = "400"/>
 
+</div>
 <!-- ### Skills -->
 <h2 align = "center">Social</h2>
 
