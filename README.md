@@ -43,5 +43,5 @@
 <div display = "flex">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevopablo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/stevopablo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevopablo&layout=donut)](https://github.com/stevopablo/github-readme-stats)
 </div>
