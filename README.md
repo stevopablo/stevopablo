@@ -20,7 +20,7 @@
 
 </div>
 <!-- ### Skills -->
-<h2 align = "center">Skills</h2>
+<h2 align = "center">Tecnologias</h2>
 
 
 <div align ="center">
