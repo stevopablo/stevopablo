@@ -1,9 +1,8 @@
-
-
 <h2 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Pablo</h2>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzM4bzc4ZnJxZzR3eG9rdDFqOWdhbWRra255eGx5cWJ4N2lnNHlyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9dhgKatYHfEuA/giphy.webp" width="400">
+  
 ![](https://komarev.com/ghpvc/?username=stevopablo&color=blueviolet)
 </p>
 
@@ -67,11 +66,6 @@
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 
   <br>
-
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-
 </p>
 
 ---
@@ -83,8 +77,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevopablo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
   </a>
 </p>
-
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd1cGtycTV4azIzMXVjdmo1Y3puOHp3YmZ2d2Q0YXJjc3c0YmVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7wIVXPnpm1DiJDdsU/giphy.webp" width = "400"/>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBnN2gzYmU0M29hZjl4YzR1MHAxZGtmazRjZ2U2djR6amUyaXM4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMpDBxxTzKety/giphy.webp" width = "400" />
