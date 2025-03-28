@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h2>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Pablo</h2>
-
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzM4bzc4ZnJxZzR3eG9rdDFqOWdhbWRra255eGx5cWJ4N2lnNHlyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9dhgKatYHfEuA/giphy.webp" width="400">
   
   <br>
