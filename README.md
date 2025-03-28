@@ -13,7 +13,7 @@
 
   ---
 
-  <h2 align="center">Skills</h2>
+  <h2 align="center">My Stack</h2>
 
 <p align="center">
  
@@ -69,8 +69,6 @@
 </p>
 
   ---
-
-  <h2>Badges</h2>
 
   <p>
     <a href="https://github.com/stevopablo">
