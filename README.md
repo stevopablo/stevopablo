@@ -53,7 +53,8 @@
   <br><br><hr><br>
 
   <!-- Snake Contribution Animation -->
-  <img src="https://github.com/stevopablo/stevopablo/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://github.com/stevopablo/stevopablo/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 
   <br><br>
 
